@@ -1,0 +1,90 @@
+[
+  {
+    "step":1,
+    "year":1783,
+    "date":-5879952000000,
+    "title":"Treaty of Paris",
+    "show_current_reservations":false,
+    "previous_year":1783
+  },
+  {
+    "step":2,
+    "year":1787,
+    "date":-5758214400000,
+    "title":"Northwest Territory",
+    "show_current_reservations":false,
+    "previous_year":1783
+  },
+  {
+    "step":3,
+    "year":1803,
+    "date":-5239555200000,
+    "title":"Louisiana Purchase",
+    "show_current_reservations":false,
+    "previous_year":1787
+  },
+  {
+    "step":4,
+    "year":1814,
+    "date":-4903891200000,
+    "title":"Treaty of Fort Jackson \/ post-War of 1812 treaty wave",
+    "show_current_reservations":false,
+    "previous_year":1803
+  },
+  {
+    "step":5,
+    "year":1824,
+    "date":-4575830400000,
+    "title":"Pre-removal treaty wave",
+    "show_current_reservations":false,
+    "previous_year":1814
+  },
+  {
+    "step":6,
+    "year":1830,
+    "date":-4405276800000,
+    "title":"Indian Removal Act",
+    "show_current_reservations":false,
+    "previous_year":1824
+  },
+  {
+    "step":7,
+    "year":1838,
+    "date":-4134067200000,
+    "title":"Trail of Tears",
+    "show_current_reservations":false,
+    "previous_year":1830
+  },
+  {
+    "step":8,
+    "year":1848,
+    "date":-3834000000000,
+    "title":"Mexican Cession",
+    "show_current_reservations":false,
+    "previous_year":1838
+  },
+  {
+    "step":9,
+    "year":1851,
+    "date":-3723840000000,
+    "title":"Reservation policy era",
+    "show_current_reservations":false,
+    "previous_year":1848
+  },
+  {
+    "step":10,
+    "year":1887,
+    "date":-2615932800000,
+    "title":"Dawes Act \/ allotment era",
+    "show_current_reservations":false,
+    "previous_year":1851
+  },
+  {
+    "step":11,
+    "year":2010,
+    "date":978220800000,
+    "title":"Present-day reservations",
+    "show_current_reservations":true,
+    "previous_year":1887
+  }
+]

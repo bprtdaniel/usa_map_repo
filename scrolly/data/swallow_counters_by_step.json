@@ -1,0 +1,90 @@
+[
+  {
+    "step":1,
+    "year":1783,
+    "event_title":"Treaty of Paris",
+    "full_cession_footprint_area_sqmi":2379718,
+    "swallowed_by_us_area_sqmi":484206,
+    "remaining_outside_us_area_sqmi":1895512
+  },
+  {
+    "step":2,
+    "year":1787,
+    "event_title":"Northwest Territory",
+    "full_cession_footprint_area_sqmi":2379718,
+    "swallowed_by_us_area_sqmi":484206,
+    "remaining_outside_us_area_sqmi":1895512
+  },
+  {
+    "step":3,
+    "year":1803,
+    "event_title":"Louisiana Purchase",
+    "full_cession_footprint_area_sqmi":2379718,
+    "swallowed_by_us_area_sqmi":1316717,
+    "remaining_outside_us_area_sqmi":1063001
+  },
+  {
+    "step":4,
+    "year":1814,
+    "event_title":"Treaty of Fort Jackson \/ post-War of 1812 treaty wave",
+    "full_cession_footprint_area_sqmi":2379718,
+    "swallowed_by_us_area_sqmi":1617790,
+    "remaining_outside_us_area_sqmi":761928
+  },
+  {
+    "step":5,
+    "year":1824,
+    "event_title":"Pre-removal treaty wave",
+    "full_cession_footprint_area_sqmi":2379718,
+    "swallowed_by_us_area_sqmi":1574639,
+    "remaining_outside_us_area_sqmi":805079
+  },
+  {
+    "step":6,
+    "year":1830,
+    "event_title":"Indian Removal Act",
+    "full_cession_footprint_area_sqmi":2379718,
+    "swallowed_by_us_area_sqmi":1574639,
+    "remaining_outside_us_area_sqmi":805079
+  },
+  {
+    "step":7,
+    "year":1838,
+    "event_title":"Trail of Tears",
+    "full_cession_footprint_area_sqmi":2379718,
+    "swallowed_by_us_area_sqmi":1860082,
+    "remaining_outside_us_area_sqmi":519636
+  },
+  {
+    "step":8,
+    "year":1848,
+    "event_title":"Mexican Cession",
+    "full_cession_footprint_area_sqmi":2379718,
+    "swallowed_by_us_area_sqmi":2343197,
+    "remaining_outside_us_area_sqmi":36521
+  },
+  {
+    "step":9,
+    "year":1851,
+    "event_title":"Reservation policy era",
+    "full_cession_footprint_area_sqmi":2379718,
+    "swallowed_by_us_area_sqmi":2343197,
+    "remaining_outside_us_area_sqmi":36521
+  },
+  {
+    "step":10,
+    "year":1887,
+    "event_title":"Dawes Act \/ allotment era",
+    "full_cession_footprint_area_sqmi":2379718,
+    "swallowed_by_us_area_sqmi":2372528,
+    "remaining_outside_us_area_sqmi":7190
+  },
+  {
+    "step":11,
+    "year":2010,
+    "event_title":"Present-day reservations",
+    "full_cession_footprint_area_sqmi":2379718,
+    "swallowed_by_us_area_sqmi":2372528,
+    "remaining_outside_us_area_sqmi":7190
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Wayne",
+        "subtitle": "Treaty of Fort Wayne (1809)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.1394, 41.0793]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prophetstown",
+        "subtitle": "Tecumseh’s confederacy center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.8225, 40.5065]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tippecanoe Battlefield",
+        "subtitle": "Battle of Tippecanoe (1811)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.8370, 40.5095]
+      }
+    }
+  ]
+}
