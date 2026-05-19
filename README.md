@@ -18,12 +18,11 @@ The Indian Land Removal and Cessions Dataset was accessed from [Here](https://ww
 
 ```text
 .
-├── index.html
 ├── README.md
-├── Data
-│   ├── openSecrets
-│   ├── Full Dark Money + all states GEOJSON
-│   └── Dark Money + 2024 Competitive House Districts GEOJSON
-└── Scripts
-    ├── Scraper
-    └── Creating DW Upload Files
+├── pre_processing.ipynb
+└── scrolly
+    ├── index.html
+    ├── script.js
+    ├── style.css
+    └── data
+
