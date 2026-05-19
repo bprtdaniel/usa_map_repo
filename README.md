@@ -1,5 +1,5 @@
 
-## Access the Story [Here](https://bprtdaniel.github.io/data_dark_money/)
+## Access the Story [Here]()
 19/05/2026
 
 # Why the Story of U.S. Territorial Evolution is too often told as an American Adventure
