@@ -26,5 +26,4 @@ The Indian Land Removal and Cessions Dataset was accessed from [Here](https://ww
     ├── style.css
     └── data
 
-ChatGPTwas used to create the JS neccesary to support the HTML. In addition AI supported the CSS section. All writing, ideation, concept and styling was not supported by AI.
-No agentic tools were used.
+ChatGPT was used to create the JS necessary to support the HTML. In addition, AI supported the CSS section. All writing, ideation, research, concept, narrative, and styling was not supported by AI. No agentic tools were used
